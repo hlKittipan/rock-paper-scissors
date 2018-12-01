@@ -1,3 +1,60 @@
 body {
     font-family: 'Roboto Slab', serif;
+    background-color: #19191f;
+}
+table {
+    text-align: center;
+}
+
+.result {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.comuter-choices{
+    text-align: center;
+
+}
+
+.computer-choice {
+    border: 4px solid wheat;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+    transition: all 0.5s ease;
+    background-color: white;
+}
+
+.choices{
+    text-align: center;
+
+}
+
+.choice {
+    border: 4px solid wheat;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;    
+    transition: all 0.5s ease;
+}
+
+.choice:hover{
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
+img {
+    width: 60px;
+}
+
+.message {
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px
+}
+
+.green-glow {
+    border: 4px solid green; !important;
 }
