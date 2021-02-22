@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Thai tea",
+    "name_th": "ชาไทย",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Thai black tea",
+    "name_th": "ชาดำไทย",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Green tea",
+    "name_th": "ชาเขียว",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Green black tea",
+    "name_th": "ชาดำเขียว",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Kiwi tea",
+    "name_th": "ชากีวี่",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Strawberry tea",
+    "name_th": "ชาสตรอว์เบอร์รี",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Cantaloupe tea",
+    "name_th": "ชาแคนตาลูป",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Blueberry tea",
+    "name_th": "ชาบลูเบอร์รี่",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Lychee tea",
+    "name_th": "ชาลิ้นจี่",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Lemon Green tea",
+    "name_th": "ชาเขียวมะนาว",
+    "price_hot": 20,
+    "price_iced": 25,
+    "price_grab": 30,
+    "price_foodpanda": 30,
+    "price_lineman": 30,
+    "category": "Tea"
+  },
+  {
+    "name": "Lemon tea",
+    "name_th": "ชามะนาว",
+    "price_hot": 25,
+    "price_iced": 25,
+    "price_grab": 30,
+    "price_foodpanda": 30,
+    "price_lineman": 30,
+    "category": "Tea"
+  },
+  {
+    "name": "Taro tea",
+    "name_th": "ชาเผือก",
+    "price_hot": 15,
+    "price_iced": 20,
+    "price_grab": 25,
+    "price_foodpanda": 25,
+    "price_lineman": 25,
+    "category": "Tea"
+  },
+  {
+    "name": "Latte",
+    "name_th": "ลาเต้",
+    "price_hot": 20,
+    "price_iced": 25,
+    "price_grab": 30,
+    "price_foodpanda": 30,
+    "price_lineman": 30,
+    "category": "Coffee"
+  }
+]
