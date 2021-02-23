@@ -1,132 +1,79 @@
 [
   {
     "name": "Thai tea",
-    "name_th": "ชาไทย",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาไทย"
   },
   {
     "name": "Thai black tea",
-    "name_th": "ชาดำไทย",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาดำไทย"
   },
   {
     "name": "Green tea",
-    "name_th": "ชาเขียว",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาเขียว"
   },
   {
     "name": "Green black tea",
-    "name_th": "ชาดำเขียว",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาดำเขียว"
   },
   {
     "name": "Kiwi tea",
-    "name_th": "ชากีวี่",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชากีวี่"
   },
   {
     "name": "Strawberry tea",
-    "name_th": "ชาสตรอว์เบอร์รี",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาสตรอว์เบอร์รี"
   },
   {
     "name": "Cantaloupe tea",
-    "name_th": "ชาแคนตาลูป",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาแคนตาลูป"
   },
   {
     "name": "Blueberry tea",
-    "name_th": "ชาบลูเบอร์รี่",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาบลูเบอร์รี่"
   },
   {
     "name": "Lychee tea",
-    "name_th": "ชาลิ้นจี่",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
+    "name_th": "ชาลิ้นจี่"
   },
   {
     "name": "Lemon Green tea",
-    "name_th": "ชาเขียวมะนาว",
-    "price_hot": 20,
-    "price_iced": 25,
-    "price_grab": 30,
-    "price_foodpanda": 30,
-    "price_lineman": 30,
-    "category": "Tea"
+    "name_th": "ชาเขียวมะนาว"
   },
   {
     "name": "Lemon tea",
-    "name_th": "ชามะนาว",
-    "price_hot": 25,
-    "price_iced": 25,
-    "price_grab": 30,
-    "price_foodpanda": 30,
-    "price_lineman": 30,
-    "category": "Tea"
+    "name_th": "ชามะนาว"
   },
   {
     "name": "Taro tea",
-    "name_th": "ชาเผือก",
-    "price_hot": 15,
-    "price_iced": 20,
-    "price_grab": 25,
-    "price_foodpanda": 25,
-    "price_lineman": 25,
-    "category": "Tea"
-  },
-  {
-    "name": "Latte",
-    "name_th": "ลาเต้",
-    "price_hot": 20,
-    "price_iced": 25,
-    "price_grab": 30,
-    "price_foodpanda": 30,
-    "price_lineman": 30,
-    "category": "Coffee"
-  }
+    "name_th": "ชาเผือก"
+  },{ "name": "Milk tea" , "name_th": "ชานม" },
+{ "name": "Milk taro tea" , "name_th": "ชานมเผือก" },
+{ "name": "Milk coco tea" , "name_th": "ชานมโกโก้" },
+{ "name": "Milk coffee tea" , "name_th": "ชานมกาแฟ" },
+{ "name": "Milk Cantaloupe tea" , "name_th": "ชานมแคนตาลูป" },
+{ "name": "Milk brown sugar tea" , "name_th": "ชานมบราวน์ชูการ์" },
+{ "name": "Honey Lemon tea" , "name_th": "ชามะนาวน้ำผึ้ง" },
+{ "name": "Traditional coffee" , "name_th": "กาแฟโบราณ" },
+{ "name": "Nescafe" , "name_th": "เนสกาแฟ" },
+{ "name": "Black coffee" , "name_th": "โอเลี้ยง" },
+{ "name": "Mocha" , "name_th": "มอคค่า" },
+{ "name": "Latte" , "name_th": "ลาเต้" },
+{ "name": "Cappuccino" , "name_th": "คาปูชิโน่" },
+{ "name": "Nestea" , "name_th": "ชาเนสที" },
+{ "name": "Cocoa" , "name_th": "โกโก้" },
+{ "name": "Milo" , "name_th": "ไมโล" },
+{ "name": "Milo with milo powder" , "name_th": "ไมโลดิบ" },
+{ "name": "Ovaltin" , "name_th": "โอวัลติน" },
+{ "name": "Ovaltin with milo powder" , "name_th": "โอวัลตินดิบ" },
+{ "name": "Milk pink" , "name_th": "นมชมพู" },
+{ "name": "Milk green" , "name_th": "นมเขียว" },
+{ "name": "Milk caramel" , "name_th": "นมสดคาราเมล" },
+{ "name": "Green soda" , "name_th": "เขียวโซดา" },
+{ "name": "Red soda" , "name_th": "แดงโซดา" },
+{ "name": "Strawberry soda" , "name_th": "สตรอเบอรี่โซดา" },
+{ "name": "Kiwi soda" , "name_th": "กีวี่โซดา" },
+{ "name": "Apple soda" , "name_th": "แอปเปิ้ลโซดา" },
+{ "name": "Blueberry soda" , "name_th": "บลูเบอร์รี่โซดา" },
+{ "name": "Cantaloupe soda" , "name_th": "แคนตาลูป" },
+{ "name": "Plum soda" , "name_th": "บ๊วยโซดา" }
 ]
