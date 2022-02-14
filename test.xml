@@ -52,4 +52,74 @@
 <land-ownership>Company</land-ownership>
 <building-ownership>Company</building-ownership>
 </property>
+  <property>
+<property-id>4938</property-id>
+<prices>
+<sale currency="THB">7000000</sale>
+</prices>
+<latitude>7.980402</latitude>
+<longitude>98.2831</longitude>
+<project-name> 6 Avenue</project-name>
+​
+<property-type>Apartment</property-type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<floor>5</floor>
+<indoor-area unit="sqm">70</indoor-area>
+<titles>
+<title lang="en">
+<![CDATA[ Chic -bedroom apartments, with mountain view in Avenue project, on Surin Beach beach ]]>
+</title>
+<title lang="th">
+<![CDATA[ ชิค อพาร์ตเมนต์2 1 ห้องนอน พร้อมวิว วิวภูเขา ในโครงการ 6 Avenue, บนชายหาด หาดสุรินทร์ ]]>
+</title>
+</titles>
+<descriptions>
+<description lang="en">
+<![CDATA[ pLocated between the two beaches Bangtao and Surin, it is an ideal base from which to explore Phuket Island. apartments of several types, modern design and functional layouts, including studio rooms, one-bedroom suites and two-bedroom suites. The apartments are well equipped and suitable even for long stays. The complex was built in accordance with all international standards only modern environmentally friendly materials were used in the construction. The apartments are well equipped and suitable even for long stays.ppbrppstrongInfrastructurestrongppThe condominium has everything you need for a comfortable stay. Rooftop pool, full-service fitness center. Wi-fi in the territory and in the apartments.ppbrppstrongWhats nearbystrongppThis stylish apartment complex is a -minute walk from Surin Beach. There are cafes, restaurants, mini markets, ATMs and everything you need for a comfortable stay nearby. Catch Beach Club. Shopping mall Surin Plaza.ppbrppstrongFor whom is it suitablestrongppThe apartments are relatively inexpensive, so they are well suited for young couples and groups of friends. You can save on car rental. Surin Beach is great for surfing.p ]]>
+</description>
+</descriptions>
+<images>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_8879_holy-cow-6th-avenue-surin-6.jpg?itok=g4VlifVf</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_9289_holy-cow-6th-avenue-surin-4.jpg?itok=lefdI7Ih</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_8479_holy-cow-6th-avenue-surin-9.jpg?itok=IJJYpVsG</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_4251_holy-cow-6th-avenue-surin-8.jpg?itok=GRa9cCYA</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2109_holy-cow-6th-avenue-surin-7.jpg?itok=KOVwoXo1</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_1803_holy-cow-6th-avenue-surin-5.jpg?itok=bXDzopmh</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_1019_holy-cow-6th-avenue-surin-33.jpg?itok=ej_GlJJS</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2584_holy-cow-6th-avenue-surin-32.jpg?itok=p-YKi0kp</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2452_holy-cow-6th-avenue-surin-31.jpg?itok=GFYPFZFH</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_8143_holy-cow-6th-avenue-surin-30.jpg?itok=aCdcxF2K</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6070_holy-cow-6th-avenue-surin-3.jpg?itok=ItY--C9B</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2268_holy-cow-6th-avenue-surin-29.jpg?itok=UKwDuMvw</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6211_holy-cow-6th-avenue-surin-28.jpg?itok=rt-qrC3Z</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_3706_holy-cow-6th-avenue-surin-27.jpg?itok=AHucJnVt</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6762_holy-cow-6th-avenue-surin-26.jpg?itok=Js-EL9xG</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6070_holy-cow-6th-avenue-surin-25.jpg?itok=dxfiVZbJ</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_4790_holy-cow-6th-avenue-surin-24.jpg?itok=IWcoogdd</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_4406_holy-cow-6th-avenue-surin-23.jpg?itok=Pxg0__tS</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_9431_holy-cow-6th-avenue-surin-22.jpg?itok=2q606qWI</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_9528_holy-cow-6th-avenue-surin-21.jpg?itok=qUTdNYBd</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_1744_holy-cow-6th-avenue-surin-20.jpg?itok=MwqBJLsN</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_9205_holy-cow-6th-avenue-surin-2.jpg?itok=7Y0NtJs2</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2273_holy-cow-6th-avenue-surin-19.jpg?itok=AVphH7U7</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6189_holy-cow-6th-avenue-surin-18.jpg?itok=2AGo1oq5</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6657_holy-cow-6th-avenue-surin-17.jpg?itok=kdP7k3GQ</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_8762_holy-cow-6th-avenue-surin-16.jpg?itok=DNYXPkwc</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_1646_holy-cow-6th-avenue-surin-15.jpg?itok=0_KExHZM</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_3910_holy-cow-6th-avenue-surin-14.jpg?itok=yDuBixug</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_8489_holy-cow-6th-avenue-surin-13.jpg?itok=XzDhOa_h</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_2127_holy-cow-6th-avenue-surin-12.jpg?itok=95HGHdNt</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_3413_holy-cow-6th-avenue-surin-11.jpg?itok=GBXDEEZe</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_6968_holy-cow-6th-avenue-surin-10.jpg?itok=9ZDno9kn</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_5378_holy-cow-6th-avenue-surin-1.jpg?itok=BBUMdMfr</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20211109_110441_4522_holy-cow-6th-avenue-surin-1-1-.jpg?itok=8jHdq8me</image>
+</images>
+<datasource>https://indreamsphuket.com/realty/chic-2-bedroom-apartments-with-mountain-view-in-6-avenue-project-on-surin-beach-beach-id4938</datasource>
+<building-ownership>Foreign Freehold</building-ownership>
+<property-features>Balcony, Renovated Kitchen</property-features>
+<outdoor-features>Pool Access, Rooftop Terrace</outdoor-features>
+<rental-features>Wifi Included, Washing Machine, Microwave, TV</rental-features>
+<property-views>Mountain View</property-views>
+</property>
 </fazwaz>
