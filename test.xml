@@ -76,4 +76,56 @@
 <rental-features>Wifi Included, Washing Machine, Microwave, TV</rental-features>
 <property-views>Mountain View</property-views>
 </property>
+  <property>
+<property-id>5196</property-id>
+<prices>
+<sale currency="THB">6455512</sale>
+</prices>
+<latitude>7.80163</latitude>
+<longitude>98.330224</longitude>
+<project-name>Harmony Phuket</project-name>
+​
+<property-type>Apartment</property-type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<floor>4</floor>
+<indoor-area unit="sqm">68</indoor-area>
+<titles>
+<title lang="en">
+<![CDATA[ Luxury -bedroom apartments, with garden view and near the sea, on Rawai beach ]]>
+</title>
+<title lang="th">
+<![CDATA[ น่าทึ่ง อพาร์ตเมนต์2 1 ห้องนอน พร้อมวิว วิวสวน, ไม่ไกลจากทะเล, บนชายหาด ราไวย์ ]]>
+</title>
+</titles>
+<descriptions>
+<description lang="en">
+<![CDATA[ ]]>
+</description>
+</descriptions>
+<images>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_2427_pool.jpg?itok=GfjVwQSf</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_2544_pool-2.jpg?itok=kpXTglRq</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_5834_garden.jpg?itok=0nYYoGR3</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_9321_lobby.png?itok=gaqrgz6n</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204911_5253_07-two-bedroom.jpg?itok=FK4mutFX</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204911_1014_08-two-bedroom.jpg?itok=1Vyqeepa</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_2516_co-working.jpg?itok=TnqFM5iS</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_9463_gym.png?itok=GV9wlu57</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_6840_exterior-1.jpg?itok=Aa3VaxMK</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_5690_exterior-3.jpg?itok=_fFf-ozm</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_7169_exterior-2.jpg?itok=dgWZJGpP</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_5407_exterior-4.jpg?itok=AKWeMg9-</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_1693_bar-day.jpg?itok=7GqXSgzX</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_4136_bar-night.jpg?itok=1xqKc_zw</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204911_8366_2-bedroom.jpg?itok=0f9nMvs9</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204911_8780_2-bedroom-left.jpg?itok=Kc2OolKt</image>
+<image>https://indreamsphuket.com/files/site4/styles/S45_IMST_1900X1000_SCALE/public/FileStore4/phuket/files/tmp/20220106_204445_7152_0-master-01.jpg?itok=PDPvP1Vu</image>
+</images>
+<datasource>https://indreamsphuket.com/realty/luxury-2-bedroom-apartments-with-garden-view-and-near-the-sea-on-rawai-beach-id5196</datasource>
+<building-ownership>Leasehold</building-ownership>
+<property-features>Private Gym</property-features>
+<outdoor-features>Private Pool, Pool Access, Rooftop Terrace, Garden Access</outdoor-features>
+<property-views>Garden View</property-views>
+</property>
 </fazwaz>
