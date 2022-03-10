@@ -1,33 +1,145 @@
 <fazwaz>
 <agent>
-<agent-name>Chiang Mai House &amp; Condo For Rent &amp; Sale | Perfect Homes</agent-name>
-<language>en-US</language>
-<phone>053245055</phone>
-<email>info@perfecthomes.co.th</email>
-<website>https://perfecthomes.co.th</website>
-<updated-at>Thu, 10 Mar 2022 08:34:00 +0000</updated-at>
+<agent-name>Anna Baranova</agent-name>
+<language>en</language>
+<phone>+66846299335</phone>
+<email>info@indreamsphuket.ru</email>
+<website>indreamsphuket.com</website>
+<updated-at>14-02-2022 12:31:21</updated-at>
 </agent>
-<property> 
-<property-id>testid123</property-id>
-<prices> 
-</prices>	 
-<latitude>25.7251820016</latitude>
-<longitude>-80.4435780063</longitude> 	
-<project-name>Mountain View Condo</project-name> 
-<property-type>Condo</property-type>	
-<bedrooms>3</bedrooms> 
-<bathrooms>2</bathrooms> 
-<indoor-area unit="">130</indoor-area>
-<plot-size unit="sqm"></plot-size>
+<property>
+<property-id>59136</property-id>
+<prices>
+<sale currency="THB">11500000</sale>
+<rent currency="THB" period="monthly">30000</rent>
+</prices>
+<latitude>12.840768</latitude>
+<longitude>100.906022</longitude>
+<project-name>Beach Villa Viphavadi</project-name>
+<property-type>Condo</property-type>
+<bedrooms>3</bedrooms>
+<bathrooms>3</bathrooms>
+<floor>14</floor>
+<indoor-area unit="">180</indoor-area>
+<plot-size/>
 <titles>
-<title lang="en"><![CDATA["This is test Property"]]></title>
-</titles>	
-<descriptions>	
-<description lang="en"><![CDATA["<!-- wp:paragraph --> <p>A basic, <strong>test property</strong> within an older Mu Development. Rent 1000 Baht/month.</p> <!-- /wp:paragraph -->  <!-- wp:paragraph --> <p>The property is partly furnished; the owner is willing to add subject to negotiation.</p> <!-- /wp:paragraph -->  <!-- wp:paragraph --> <p><strong>Property Features</strong>:</p> <!-- /wp:paragraph -->  <!-- wp:list --> <ul><li>Bedrooms: 3</li><li>Bathrooms: 2</li><li>Living-Dining room</li><li>Thai Kitchen (no appliances)</li><li>A/Con: 2 units</li><li>Small Garden</li><li>Covered Parking: 2 Cars</li></ul> <!-- /wp:list -->  <!-- wp:paragraph --> <p>To view or check availability, contact:</p> <!-- /wp:paragraph -->  <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->"]]></description>
+<title lang="en">
+<![CDATA[ Beachfront Condo For Sale And Rent In Beach Villa Viphavadi ]]>
+</title>
+</titles>
+<descriptions>
+<description lang="en">
+<![CDATA[ Beach Villa Viphavadi A stunning beachfront condo called Beach Villa Viphavadi on the best-developed part of Jomtien beach 300 meters from the 5 star Moevenpick Hotel and very close to Ocean Marina. The property is right next to Ambassador City. There are only 60 units in this building which consists of 15 floors. Amazing view 14th floor. Very quiet relaxing atmosphere. Huge living room with American kitchen. Direct TV access with Russian channels. Daikin air condition system in every room. Thai-Bali style Teak furniture. Big balcony throughout. ]]>
+</description>
 </descriptions>
 <images>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-1.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-2.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-3.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-4.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-5.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-6.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-7.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-8.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-9.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-10.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-11.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20398-12.jpg</image>
 </images>
-<datasource>https://perfecthomes.co.th/property/this-is-test-property/</datasource>
-<land-title-deed>Chanote</land-title-deed>
+<datasource>https://towncountryproperty.com/property/beachfront-condo-for-sale-and-rent-in-beach-villa-viphavadi-bac20398/</datasource>
+<property-features>Dining Area,Fully Furnished,24h Manned Security,Sea View,European Kitchen</property-features>
+<outdoor-features>Parking,Communal Pool,Communal Garden</outdoor-features>
+<land-ownership>Foreign Ownership</land-ownership>
+<building-ownership>Foreign Ownership</building-ownership>
+</property>
+  <property>
+<property-id>59150</property-id>
+<prices>
+<sale currency="THB">14000000</sale>
+<rent currency="THB" period="monthly"/>
+</prices>
+<latitude>12.811927</latitude>
+<longitude>100.947695</longitude>
+<project-name>Phoenix Golf Course</project-name>
+<property-type>House</property-type>
+<bedrooms>4</bedrooms>
+<bathrooms>5</bathrooms>
+<floor/>
+<indoor-area>-</indoor-area>
+<plot-size>1133</plot-size>
+<titles>
+<title lang="en">
+<![CDATA[ Phoenix Golf Executive House ]]>
+</title>
+</titles>
+<descriptions>
+<description lang="en">
+<![CDATA[ Investment property 6-year lease in place!! Beautiful house located inside the grounds of Phoenix Golf Course. Designed &amp; built in 2007 this is very spacious home offering 4 bedrooms office maids &amp; laundry rooms. Finished to a high standard with solid teak wood floors. Nice gardens &amp; a large saltwater swimming pool. with sala and BBQ area. Call us for more details.. ]]>
+</description>
+</descriptions>
+<images>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-1.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-2.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-3.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-4.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-5.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-6.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-7.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-8.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-9.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-10.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-11.JPG</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAH17961-12.JPG</image>
+</images>
+<datasource>https://towncountryproperty.com/property/phoenix-golf-executive-house-bah17961/</datasource>
+<property-features>Maid Room,Dining Area,Fully Furnished,Garage,24h Manned Security,Scenic View,European Kitchen</property-features>
+<outdoor-features>Private Pool,Parking</outdoor-features>
+<land-ownership>Company</land-ownership>
+<building-ownership>Company</building-ownership>
+</property>
+  <property>
+<property-id>59137</property-id>
+<prices>
+<sale currency="THB">11500000</sale>
+<rent currency="THB" period="monthly"/>
+</prices>
+<latitude>12.810922</latitude>
+<longitude>100.91423</longitude>
+<project-name>Baan Somprasong Condo</project-name>
+<property-type>Condo</property-type>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<floor>1</floor>
+<indoor-area>175</indoor-area>
+<plot-size/>
+<titles>
+<title lang="en">
+<![CDATA[ Beach-Front 2 Bedroom Condo In Baan Somprasong Condo Baan Amphur ]]>
+</title>
+</titles>
+<descriptions>
+<description lang="en">
+<![CDATA[ Baan Somprasong condo A recently renovated GROUND-floor 2 bedroom condo on a stunning waterfront property called Baan Somprasong. Very well-known and popular beachfront residential development. The absolute best Pattaya has to offer. A short distance from the city. Amenities include a 50-meter long swimming pool with a jacuzzi plus a separate pool for children and an extraordinary garden. Guaranteed to serve all your needs! This is one of the best locations in Pattaya. Ideal for families seeking the ultimate in beachfront living. Air-condition in every room. Large balcony overlooking the manicured gardens with direct access to this lovely mature development with excellent project management. ]]>
+</description>
+</descriptions>
+<images>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-1.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-2.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-3.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-4.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-5.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-6.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-7.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-8.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-9.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-10.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-11.jpg</image>
+<image>https://towncountryproperty.com/wp-content/uploads/2020/09/BAC20399-12.jpg</image>
+</images>
+<datasource>https://towncountryproperty.com/property/beach-front-2-bedroom-condo-in-baan-somprasong-condo-baan-amphur-bac20399/</datasource>
+<property-features>Dining Area,Fully Furnished,24h Manned Security,Sea View,European Kitchen</property-features>
+<outdoor-features>Parking,Communal Pool,Communal Garden,Garden View</outdoor-features>
+<land-ownership>Foreign Ownership</land-ownership>
+<building-ownership>Foreign Ownership</building-ownership>
 </property>
 </fazwaz>
